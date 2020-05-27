@@ -78,6 +78,7 @@
 @import './imports/_colors';
 @import './imports/_media-queries';
 @import './imports/_variables';
+@import './imports/_prism';
 
 /* Debugging */
 @import './imports/_debug-children';
